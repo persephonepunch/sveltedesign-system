@@ -1186,8 +1186,8 @@ body{
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url('./reddinghouse.jpeg');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./reddinghouse.jpeg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url('https://hagenblack-11ty.netlify.app/assets/images/jane-beiles-9456-2-p-1080.jpeg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://hagenblack-11ty.netlify.app/assets/images/jane-beiles-9456-2-p-1080.jpeg');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     font-family: stolzl, sans-serif;
@@ -1507,8 +1507,8 @@ body{
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url('./reddinghouse.jpeg');
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('./reddinghouse.jpeg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url('https://hagenblack-11ty.netlify.app/assets/images/jane-beiles-9456-2-p-1080.jpeg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://hagenblack-11ty.netlify.app/assets/images/jane-beiles-9456-2-p-1080.jpeg');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
     font-family: stolzl, sans-serif;
